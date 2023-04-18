@@ -21,9 +21,6 @@ def solve(file: str) -> None:
     print("1: ", find_marker(datastream, 4))
     print("2: ", find_marker(datastream, 14))
 
-        
-    pass
-
 
 if __name__ == "__main__":
     solve("./input.txt")
